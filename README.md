@@ -6,4 +6,4 @@
 
 运行方式为每个文件夹里面的main.cpp 
 
-Copyright (c) 2018-2020 chenjunfeng <wwwcjf163@163.com>
+Copyright (c) 2018 chenjunfeng <wwwcjf163@163.com>

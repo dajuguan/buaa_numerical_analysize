@@ -1,5 +1,10 @@
 //数值分析大作业第三题
 
+//Copyright (c) 2018 chenjunfeng <wwwcjf163@163.com>
+// This Source Code Form is subject to the terms of the Mozilla
+// Public License v. 2.
+//源码在https://github.com/dajuguan/buaa_numerical_analysize/tree/master/ex3
+
 #include <iostream>
 #include "matrix.h"
 #include <math.h>

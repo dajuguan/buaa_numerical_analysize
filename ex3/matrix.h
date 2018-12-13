@@ -1,8 +1,4 @@
-//本文件是数值分析第二个作业定义的通用矩阵操作头文件matrix.h
-//Copyright (c) 2018-2020 chenjunfeng <wwwcjf163@163.com>
-// This Source Code Form is subject to the terms of the Mozilla
-// Public License v. 2.
-//源码在
+//本文件是数值分析第三个作业定义的通用矩阵和向量操作头文件matrix.h
 
 #ifndef MATRIX_H
 #define MATRIX_H

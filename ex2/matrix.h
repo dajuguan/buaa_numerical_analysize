@@ -172,7 +172,7 @@ class Matrix{
                 pmm[i] = rhs.pmm[i];
         }
         ~Matrix(){
-            if(!pmm){
+            if(pmm){
                 delete []pmm;
                 pmm = NULL;
             }
